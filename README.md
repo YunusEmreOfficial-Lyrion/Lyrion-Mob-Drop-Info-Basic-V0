@@ -1,0 +1,1 @@
+# Lyrion-Mob-Drop-Info-Basic-V0
