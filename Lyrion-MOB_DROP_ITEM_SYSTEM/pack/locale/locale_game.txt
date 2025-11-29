@@ -1,0 +1,3 @@
+TARGET_INFO_NO_ITEM_TEXT	Düşürebilecek eşya yok.
+TARGET_INFO_STONE_NAME	Hayalet Taşı
+TARGET_INFO	Kazanılabilecek Eşyalar
